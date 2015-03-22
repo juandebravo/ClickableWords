@@ -9,6 +9,8 @@ It can be used via a keystroke (`Cmd+Option+Enter` by default) or using the Comm
 As [Clickable URLs](https://www.github.com/leonid-shevtsov/ClickableUrls_SublimeText2), it exposes as well a command to open every URL that is matched against the open document (`Click and open all URLs in the file`).
 
 
+![gif](demo.gif)
+
 # Performance
 
 This plugin does not work upon updating/storing the file, only when the command is executed (via command palette or keystroke).
