@@ -1,0 +1,8 @@
+{
+	"description": "Generates a weblink based on a matched RegExpr and opens it with a keystroke.",
+	"url": "https://github.com/juandebravo/ClickableWords",
+	"platforms": ["*"],
+	"version": "0.0.1",
+	"sublime_text": "*",
+	"dependencies": []
+}

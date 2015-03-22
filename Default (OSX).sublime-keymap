@@ -1,0 +1,3 @@
+[
+    { "keys": ["super+option+enter"], "command": "clickable_word" }
+]

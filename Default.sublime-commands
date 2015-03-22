@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "Click and open URL",
+    "command": "clickable_word"
+  },
+  {
+    "caption": "Click and open all URLs in the file",
+    "command": "clickable_all_words"
+  }
+]
